@@ -8,7 +8,7 @@ Um simples jogo Gênesis com apenas algumas linhas de código!
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
-* Link para o jogo (http://osdeving.github.io/genesis-game)
+* Link para o jogo (http://osdeving.github.io/genesis-game/index.html)
 
 
 
